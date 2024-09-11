@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'PPNeueMachinaPlain';
+    src: url('PPNeueMachina-PlainRegular.woff2') format('woff2'),
+         url('PPNeueMachina-PlainRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PPTelegraf';
+    src: url('PPTelegraf-Regular.woff2') format('woff2'),
+         url('PPTelegraf-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PPTelegraf';
+    src: url('PPTelegraf-UltraBold.woff2') format('woff2'),
+         url('PPTelegraf-UltraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
